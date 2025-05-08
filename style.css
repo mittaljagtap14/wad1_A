@@ -1,0 +1,17 @@
+
+
+
+#body{
+    font-size: x-large;
+}
+#sidebar {
+    width: 220px;
+    min-height: 100vh;
+    font-size: x-large;
+   
+  }
+  
+#main-content {
+    flex: 1;
+  }
+  
